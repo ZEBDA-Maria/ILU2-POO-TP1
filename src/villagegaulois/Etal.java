@@ -12,7 +12,7 @@ public class Etal {
 	public boolean isEtalOccupe() {
 		return etalOccupe;
 	}
-
+	
 	public Gaulois getVendeur() {
 		return vendeur;
 	}
